@@ -99,7 +99,7 @@ Follow these steps to set up and run Beacon on your system:
    ```
 - Beacon will now listen for your commands and respond through voice + automation features.
 
-## 🎤 How to Use Beacon (Accuracy.py Explained)
+## 🎤 How to Use Beacon
 - The accuracy.py file helps improve the command recognition accuracy by:
 - Listening to Input – Captures your microphone input via Whisper.cpp.
 - Processing the Text – Converts speech into structured text commands.
