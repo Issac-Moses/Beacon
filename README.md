@@ -118,5 +118,10 @@ Follow these steps to set up and run Beacon on your system:
 - Smart Task Scheduling: Set reminders, timers, and voice-controlled notes.
 - IoT Integration: Control smart devices like lights, fans, or appliances.
 - Improved Context Awareness: Beacon will remember past commands for a smoother conversation.
-
+  
+## 📬 Collaburator's Contact
+- 📧 Issac Moses D – issacmoses19082005@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/i%EF%BD%93%EF%BD%93-a-c-m-%E5%8F%A3%EF%BD%93%E3%83%A2%EF%BD%93-d-12837831b/)
+- 📧 Varsha R – 
+- 💼 [LinkedIn](https://www.linkedin.com/in/varsha-rajmohan-ba395832a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3B8j8HHocuTEScbnVDAfgilw%3D%3D)
 **👉 Stay tuned for release updates in the Releases tab of this repo!**
