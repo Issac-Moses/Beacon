@@ -63,7 +63,7 @@ It uses **Whisper.cpp** for speech recognition and integrates automation feature
 Install dependencies with:
 ```bash
 pip install -r requirements.txt
-
+```
 ## 🔮 Future Upgradation  
 Beacon is designed with scalability in mind. In future updates, the assistant will be enhanced with:  
 - **Smarter Voice Recognition** using advanced ML models.  
