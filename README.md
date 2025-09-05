@@ -3,6 +3,7 @@
 Beacon is a lightweight AI-powered desktop assistant that listens to your voice, executes commands, and assists you with daily tasks.  
 It uses **Whisper.cpp** for speech recognition and integrates automation features to make your workflow faster and more accessible.  
 
+[![Beacon Logo](logo.ico)](https://github.com/YourUsername/Beacon)
 
 
 ## 🚀 Features
